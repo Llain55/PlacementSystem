@@ -1,2 +1,3 @@
-# PlacementSystem
-Test of placing buildings in a grid.
+# Placement System
+
+Learning placement systems for city builder games.
