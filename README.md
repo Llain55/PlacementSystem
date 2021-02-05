@@ -1,3 +1,6 @@
 # Placement System
 
-Learning placement systems for city builder games.
+Learning placement systems for city builder games. 
+
+
+(Unfinished)
